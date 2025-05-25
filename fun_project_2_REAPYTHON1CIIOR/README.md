@@ -2,6 +2,8 @@
 
 # FITUR PEMBEDA DENGAN CHATBOT YANG DIAJARKAN DI ZOOM!
 1. Pengaturan Chatbot
+    - Sidebar Tombol "Chat Baru"
+        - Jika dipencet maka seluruh chat akan hilang
     - Sidebar Pemilihan Model LLM
         - Selain dapat memilih model LLMM, caption "Powered by ___ via OpenRouter🤖" akan berubah sesuai model LLM yang dipilih
     - Sidebar Pemilihan Bahasa Chatbot
@@ -11,12 +13,11 @@
         - Pesan pada "Warning" untuk memasukkan pesan berubah sesuai bahasa yang dipilih
             - en : "Please enter a message to start the conversation"
             - id : "Silahkan masukkan pesan untuk memulai percakapan"
-    - Sidebar Tombol "Chat Baru"
-        - Jika dipencet maka seluruh chat akan hilang
-2. Timestamp
+
+3. Timestamp
     - Terdapat catatan waktu pesan user terkirim dan pesan chatbot terkirim
 
-3. Page Title sudah dicustom
+4. Page Title sudah dicustom
 
 
 # Documentation (Made by 'Claude 3.5 Sonnet' Agent )
