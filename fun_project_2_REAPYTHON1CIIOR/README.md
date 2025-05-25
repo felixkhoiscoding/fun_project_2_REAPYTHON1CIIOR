@@ -1,6 +1,6 @@
 
 
-# FITUR PEMBEDA DENGAN CHATBOT YANG DIAJARKAN DI ZOOM!
+# FITUR PEMBEDA DENGAN CHATBOT YANG DIAJARKAN DI ZOOM
 1. Timestamp
     - Terdapat catatan waktu pesan user terkirim dan pesan chatbot terkirim
 2. Pengaturan Chatbot
@@ -20,7 +20,7 @@
 3. Page Title sudah dicustom
 
 
-# Documentation (Made by 'Claude 3.5 Sonnet' Agent )
+# DOCUMENTATION (Made by 'Claude 3.5 Sonnet' Agent )
 
     ## Technical Overview
     This AI Chatbot application is built using Streamlit and integrates with OpenRouter API to provide conversational AI capabilities. The application supports multiple language models and bilingual interface (Indonesian/English).
