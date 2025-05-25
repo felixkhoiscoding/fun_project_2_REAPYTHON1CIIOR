@@ -6,11 +6,11 @@
         - Selain dapat memilih model LLMM, caption "Powered by ___ via OpenRouter🤖" akan berubah sesuai model LLM yang dipilih
     - Sidebar Pemilihan Bahasa Chatbot
         - Pesan pada "Input User" berubah sesuai bahasa yang dipilih
-        en : "Type your message here..."
-        id : "Tulis pesan di sini..."
+            - en : "Type your message here..."
+            - id : "Tulis pesan di sini..."
         - Pesan pada "Warning" untuk memasukkan pesan berubah sesuai bahasa yang dipilih
-        en : "Please enter a message to start the conversation"
-        id : "Silahkan masukkan pesan untuk memulai percakapan"
+            - en : "Please enter a message to start the conversation"
+            - id : "Silahkan masukkan pesan untuk memulai percakapan"
     - Sidebar Tombol "Chat Baru"
         - Jika dipencet maka seluruh chat akan hilang
 2. Timestamp
