@@ -2,16 +2,16 @@
 
 # FITUR PEMBEDA DENGAN CHATBOT YANG DIAJARKAN DI ZOOM!
 1. Pengaturan Chatbot
-    a. Sidebar Pemilihan Model LLM
+    - Sidebar Pemilihan Model LLM
         - Selain dapat memilih model LLMM, caption "Powered by ___ via OpenRouter🤖" akan berubah sesuai model LLM yang dipilih
-    b. Sidebar Pemilihan Bahasa Chatbot
+    - Sidebar Pemilihan Bahasa Chatbot
         - Pesan pada "Input User" berubah sesuai bahasa yang dipilih
         en : "Type your message here..."
         id : "Tulis pesan di sini..."
         - Pesan pada "Warning" untuk memasukkan pesan berubah sesuai bahasa yang dipilih
         en : "Please enter a message to start the conversation"
         id : "Silahkan masukkan pesan untuk memulai percakapan"
-    c. Sidebar Tombol "Chat Baru"
+    - Sidebar Tombol "Chat Baru"
         - Jika dipencet maka seluruh chat akan hilang
 2. Timestamp
     - Terdapat catatan waktu pesan user terkirim dan pesan chatbot terkirim
