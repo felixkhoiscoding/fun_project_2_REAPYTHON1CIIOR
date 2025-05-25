@@ -1,7 +1,9 @@
 
 
 # FITUR PEMBEDA DENGAN CHATBOT YANG DIAJARKAN DI ZOOM!
-1. Pengaturan Chatbot
+1. Timestamp
+    - Terdapat catatan waktu pesan user terkirim dan pesan chatbot terkirim
+2. Pengaturan Chatbot
     - Sidebar Tombol "Chat Baru"
         - Jika dipencet maka seluruh chat akan hilang
     - Sidebar Pemilihan Model LLM
@@ -14,10 +16,8 @@
             - en : "Please enter a message to start the conversation"
             - id : "Silahkan masukkan pesan untuk memulai percakapan"
 
-3. Timestamp
-    - Terdapat catatan waktu pesan user terkirim dan pesan chatbot terkirim
 
-4. Page Title sudah dicustom
+3. Page Title sudah dicustom
 
 
 # Documentation (Made by 'Claude 3.5 Sonnet' Agent )
